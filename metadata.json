@@ -1,0 +1,7 @@
+{
+  "name": "BrewPerks",
+  "description": "Exclusive coffee shop discounts and discovery platform powered by AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
